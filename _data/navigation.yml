@@ -10,13 +10,13 @@ main:
     url: /teaching/    
     
   - title: "People"
-    url: /People/
-        
-  - title: "Opportunities"
-    url: /Opportunities/
-    
+    url: /markdown/
+          
   - title: "Funding&Award"
-    url: /FundingAward/
+    url: /portfolio/
     
   - title: "Blog"
     url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
