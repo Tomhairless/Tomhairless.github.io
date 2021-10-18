@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Tiantai Deng is a Lecturer (Assistant Professor) at the Department of Electronics and Electrical Engineering, the University of Sheffield, UK. His work mainly involves designing innovative and practical hardware architectures on FPGAs to accelerate the deep learning and image processing applications. 
+
+Prior of his work in the University of Sheffield, he was a senior research engineer at the Research Department of HiSilicon, Huawei. The industrial experience equipped him with proper knowledge of doing research in architectures, number system and sparse processing. 
+
+He was a research engineer in the University of Sheffield, UK from Sep. 2019 to Oct. 2020. He received the PhD degree in Electronics and Computer Engineering from Queen's University Belfast, UK in Aug. 2020. His detailed education background and work experience can be found in the CV page. 
 
 A data-driven personal website
 ======
