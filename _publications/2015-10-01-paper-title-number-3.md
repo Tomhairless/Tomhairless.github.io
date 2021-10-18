@@ -6,7 +6,6 @@ excerpt: 'This paper is about the idea of using Soft Coprocessors to accelerate 
 date: 2015-10-01
 venue: 'IEEE Conference ISSC 2019'
 paperurl: 'http://academicpages.github.io/files/TD_SCP_Con.pdf'
-
 ---
 This paper is about the idea of using Soft Coprocessors to accelerate the development process of the image processing algorithms.
 
