@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng in Measurement, Control and Instruments, Harbin Institute of Technology, 2011-2015
+* MSc in Advanced Control and System Engineering, The University of Manchester, 2015-2016
+* PhD in Electronics and Computer Engineering, Queen's University Belfast 2016-2019, 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2021 - Present: Lecturer in Electronics and Digital System
+  * Department of EEE, The University of Sheffield, Sheffield, UK
+  * Duties included: Research in ECE, Teaching of 2 modules and Recruiting UG studengs for ECE
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov. 2020 - July 2021: Senior Research Engineer
+  * Research Dept. HiSilicon, Huawei, Shenzhen, China
+* Sep. 2019 - Oct. 2020: Research Engineer
+  * Department of EEE, The University of Sheffield, Sheffield, UK
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Hardware Acceleration
+  * FPGAs
+  * Architecture Design and Optimization
+  * Number System
+  * Sparse Processing
+* Image Processing
+  * Deep Learning
+  * Algorithm Development
+* General Skills
+  * Windows, Linux, Mac OS
+  * Latex
+  * Presentation
+  * Interpersonal Skills
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* EEE 232 Hardware Description Language
+* EEE 228 Design Projects
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Recruitment for ECE
