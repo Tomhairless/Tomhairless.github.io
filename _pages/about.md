@@ -16,8 +16,8 @@ He was a research engineer in the University of Sheffield, UK from Sep. 2019 to 
 
 Research Interests
 ======
-FPGA-based Hardware Acceleration
-High-level Design and Verification Environment on FPGAs
-Sparce Processing Architecture
-Number System and Approximation Computing
+FPGA-based Hardware Acceleration, 
+High-level Design and Verification Environment on FPGAs, 
+Sparce Processing Architecture, 
+Number System and Approximation Computing, 
 
