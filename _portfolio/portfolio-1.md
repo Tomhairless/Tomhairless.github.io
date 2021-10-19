@@ -1,7 +1,6 @@
 ---
-title: "Funding & Awards"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research Grant (Under Review)"
+excerpt: "Up to 20K from Royal Society 1<br/><img src='/images/royal_logo.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A research about hardware acceleration in deep learning applications submitted to the Research Grant from Royal Society. 
